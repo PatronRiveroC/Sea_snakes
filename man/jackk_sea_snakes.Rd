@@ -38,7 +38,7 @@ jackk_sea_snakes(csv_dir, train_dir, test_dir)
 %%  ~~who you are~~
 }
 \note{ 
-  for intallation
+#  for installation
 library(devtools)
 install_github("PatronRiveroC/Ssnakes")
 %%  ~~further notes~~
