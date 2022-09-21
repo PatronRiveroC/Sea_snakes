@@ -37,7 +37,10 @@ jackk_sea_snakes(csv_dir, train_dir, test_dir)
 \author{ Carlos Patron-Rivero
 %%  ~~who you are~~
 }
-\note{
+\note{ 
+  for intallation
+library(devtools)
+install_github("PatronRiveroC/Ssnakes")
 %%  ~~further notes~~
 }
 
