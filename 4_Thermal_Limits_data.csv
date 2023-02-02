@@ -1,0 +1,1591 @@
+Family,Genus,Species,Temp,Limit,Base,Temperature
+Hydrophinnae,Acalyptophis,Aca_per,3.306424,Lower,B_Bma,Max
+Hydrophinnae,Acalyptophis,Aca_per,31.715296,Upper,B_Bma,Max
+Hydrophinnae,Acalyptophis,Aca_per,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Acalyptophis,Aca_per,31.697572,Upper,B_Bme,Max
+Hydrophinnae,Acalyptophis,Aca_per,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Acalyptophis,Aca_per,31.719376,Upper,B_Bmi,Max
+Hydrophinnae,Acalyptophis,Aca_per,26.626873,Lower,B_Surf,Max
+Hydrophinnae,Acalyptophis,Aca_per,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Acalyptophis,Aca_per,25,Lower,M_Surf,Max
+Hydrophinnae,Acalyptophis,Aca_per,31.04,Upper,M_Surf,Max
+Hydrophinnae,Acalyptophis,Aca_per,3.298203945,Lower,B_Bma,Mean
+Hydrophinnae,Acalyptophis,Aca_per,28.41171455,Upper,B_Bma,Mean
+Hydrophinnae,Acalyptophis,Aca_per,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Acalyptophis,Aca_per,28.63673019,Upper,B_Bme,Mean
+Hydrophinnae,Acalyptophis,Aca_per,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Acalyptophis,Aca_per,28.62757492,Upper,B_Bmi,Mean
+Hydrophinnae,Acalyptophis,Aca_per,23.11631012,Lower,B_Surf,Mean
+Hydrophinnae,Acalyptophis,Aca_per,29.34171867,Upper,B_Surf,Mean
+Hydrophinnae,Acalyptophis,Aca_per,21.49,Lower,M_Surf,Mean
+Hydrophinnae,Acalyptophis,Aca_per,28.48,Upper,M_Surf,Mean
+Hydrophinnae,Acalyptophis,Aca_per,17.5,Lower,M_Surf,Min
+Hydrophinnae,Acalyptophis,Aca_per,27.75,Upper,M_Surf,Min
+Hydrophinnae,Acalyptophis,Aca_per,3.291564,Lower,B_Bma,Min
+Hydrophinnae,Acalyptophis,Aca_per,25.486836,Upper,B_Bma,Min
+Hydrophinnae,Acalyptophis,Aca_per,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Acalyptophis,Aca_per,25.579453,Upper,B_Bme,Min
+Hydrophinnae,Acalyptophis,Aca_per,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Acalyptophis,Aca_per,25.654135,Upper,B_Bmi,Min
+Hydrophinnae,Acalyptophis,Aca_per,18.352158,Lower,B_Surf,Min
+Hydrophinnae,Acalyptophis,Aca_per,28.283028,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_apr,8.090838,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_apr,31.449986,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_apr,10.378782,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_apr,31.661,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_apr,16.697733,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_apr,31.447212,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_apr,30.429319,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_apr,31.678247,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_apr,27.89,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_apr,30.43,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_apr,10.27308655,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_apr,27.59739494,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_apr,13.15812969,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_apr,28.39407539,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_apr,25.25503349,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_apr,28.48304176,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_apr,24.92919731,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_apr,28.64673042,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_apr,24.19,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_apr,28.31,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_apr,20.29,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_apr,26.34,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_apr,7.548973,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_apr,23.171921,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_apr,9.234856,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_apr,25.563492,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_apr,13.236958,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_apr,25.654011,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_apr,20.669994,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_apr,25.886652,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_dub,2.471547,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_dub,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_dub,5.58923,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_dub,31.658561,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_dub,13.618507,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_dub,31.668458,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_dub,26.167671,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_dub,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_dub,24.67,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_dub,30.72,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_dub,2.384718895,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_dub,28.60078812,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_dub,5.380150795,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_dub,28.61416817,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_dub,12.17556763,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_dub,28.61062813,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_dub,22.48207283,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_dub,28.69297981,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_dub,21.47,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_dub,28.44,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_dub,18.59,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_dub,26.34,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_dub,2.279607,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_dub,25.334698,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_dub,5.092024,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_dub,25.563492,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_dub,10.838561,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_dub,25.654135,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_dub,18.129993,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_dub,25.946606,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_eyd,23.756562,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_eyd,32.066566,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_eyd,28.303423,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_eyd,31.807276,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_eyd,28.308426,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_eyd,31.731574,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_eyd,27.686647,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_eyd,31.792,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_eyd,26.87,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_eyd,31.41,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_eyd,20.8778019,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,29.66002464,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,23.62077904,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,29.44698524,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,23.73592758,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,29.43398666,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,23.25252151,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,29.25451851,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,22.31,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,28.92,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_eyd,15.95,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_eyd,27.39,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_eyd,16.449212,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_eyd,27.439736,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_eyd,15.948044,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_eyd,27.396496,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_eyd,15.948044,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_eyd,27.387904,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_eyd,15.677899,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_eyd,27.409994,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fol,8.090838,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_fol,31.042838,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_fol,10.378782,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_fol,31.0983,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_fol,16.683252,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_fol,31.134461,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_fol,30.717991,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fol,31.266832,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fol,28.49,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fol,29.97,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fol,10.27308655,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_fol,27.76654243,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_fol,13.15812969,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_fol,28.39407539,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_fol,25.92513657,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_fol,28.49616051,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_fol,26.07338715,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fol,28.64673042,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fol,25.7,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fol,28.31,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fol,22.81,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fol,26.35,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fol,7.548973,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_fol,23.2154,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_fol,9.234856,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_fol,25.563492,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_fol,13.236958,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_fol,25.654011,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_fol,20.989731,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fol,25.886652,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fus,5.105131,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_fus,31.030411,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_fus,8.865482,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_fus,31.184615,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_fus,20.502041,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_fus,31.228686,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_fus,27.760689,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fus,31.066277,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fus,28.07,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fus,30.4,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_fus,4.449258804,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_fus,27.87716484,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_fus,7.869472027,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_fus,28.39407539,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_fus,23.86229515,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_fus,28.52013016,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_fus,23.50878334,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fus,28.70363045,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fus,23.77,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fus,28.44,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_fus,18.86,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fus,26.34,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fus,4.557484,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_fus,24.975813,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_fus,8.163533,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_fus,25.563492,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_fus,15.98025,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_fus,25.654135,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_fus,18.988016,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_fus,25.946606,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_lae,1.488688,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_lae,31.778742,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_lae,1.54193,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_lae,31.740413,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_lae,1.54193,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_lae,31.721164,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_lae,23.679993,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_lae,31.719994,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_lae,21.82,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_lae,31.41,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_lae,1.48277998,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_lae,28.47215462,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_lae,1.501294017,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_lae,28.50076103,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_lae,1.532371044,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_lae,28.51997566,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_lae,19.91010666,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_lae,28.77243233,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_lae,19.06,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_lae,28.52,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_lae,15.77,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_lae,26.47,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_lae,1.477313,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_lae,25.374667,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_lae,1.520162,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_lae,25.563492,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_lae,1.520162,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_lae,25.712493,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_lae,15.729994,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_lae,25.946606,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_mos,1.961156,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_mos,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_mos,2.096825,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_mos,31.418772,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_mos,2.098197,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_mos,31.418772,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_mos,27.052269,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_mos,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_mos,25.11,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_mos,30.56,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_mos,1.916198015,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_mos,27.96865082,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_mos,2.041192055,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_mos,27.97025299,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_mos,2.042792082,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_mos,27.92505264,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_mos,22.91228676,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_mos,28.05387878,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_mos,22.08,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_mos,27.86,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_mos,16.95,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_mos,25.37,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_mos,1.871232,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_mos,25.114361,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_mos,1.991831,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_mos,24.977623,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_mos,1.993462,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_mos,24.839858,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_mos,18.315948,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_mos,24.913727,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_poo,27.932918,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_poo,28.345864,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_poo,27.961638,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_poo,28.416103,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_poo,28.019795,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_poo,28.416021,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_poo,27.892845,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_poo,29.099907,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_poo,24.71,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_poo,26.03,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_poo,22.51532173,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_poo,24.08509445,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_poo,22.47943687,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_poo,24.13153076,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_poo,22.48110962,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_poo,24.15253067,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_poo,22.70126152,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_poo,23.72460747,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_poo,21.81,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_poo,23.13,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_poo,17.61,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_poo,20.83,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_poo,18.465462,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_poo,21.016456,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_poo,18.340857,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_poo,20.99042,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_poo,18.344856,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_poo,20.96206,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_poo,18.140583,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_poo,20.288412,Upper,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_ten,27.844199,Lower,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_ten,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Aipysurus,Aip_ten,28.847525,Lower,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_ten,31.418772,Upper,B_Bme,Max
+Hydrophinnae,Aipysurus,Aip_ten,29.152734,Lower,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_ten,31.418772,Upper,B_Bmi,Max
+Hydrophinnae,Aipysurus,Aip_ten,30.661926,Lower,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_ten,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Aipysurus,Aip_ten,28.95,Lower,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_ten,30.46,Upper,M_Surf,Max
+Hydrophinnae,Aipysurus,Aip_ten,25.24646378,Lower,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_ten,27.81619072,Upper,B_Bma,Mean
+Hydrophinnae,Aipysurus,Aip_ten,25.51216507,Lower,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_ten,27.81655693,Upper,B_Bme,Mean
+Hydrophinnae,Aipysurus,Aip_ten,25.51076508,Lower,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_ten,27.85944939,Upper,B_Bmi,Mean
+Hydrophinnae,Aipysurus,Aip_ten,26.58113098,Lower,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_ten,27.45266724,Upper,B_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_ten,26.3,Lower,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_ten,27.53,Upper,M_Surf,Mean
+Hydrophinnae,Aipysurus,Aip_ten,22.21,Lower,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_ten,24.06,Upper,M_Surf,Min
+Hydrophinnae,Aipysurus,Aip_ten,22.635811,Lower,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_ten,24.972281,Upper,B_Bma,Min
+Hydrophinnae,Aipysurus,Aip_ten,22.689608,Lower,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_ten,24.972759,Upper,B_Bme,Min
+Hydrophinnae,Aipysurus,Aip_ten,22.689608,Lower,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_ten,24.134996,Upper,B_Bmi,Min
+Hydrophinnae,Aipysurus,Aip_ten,21.680307,Lower,B_Surf,Min
+Hydrophinnae,Aipysurus,Aip_ten,23.343967,Upper,B_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,2.66235,Lower,B_Bma,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,30.433021,Upper,B_Bma,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,17.466789,Lower,B_Bme,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,30.480688,Upper,B_Bme,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,29.933556,Lower,B_Bmi,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,30.192367,Upper,B_Bmi,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,29.827093,Lower,B_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,30.129253,Upper,B_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,27.86,Lower,M_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,29.32,Upper,M_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_lin,2.561664104,Lower,B_Bma,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.61844635,Upper,B_Bma,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,16.4541378,Lower,B_Bme,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.80413246,Upper,B_Bme,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,27.98286819,Lower,B_Bmi,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.81128311,Upper,B_Bmi,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.12622261,Lower,B_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.80187607,Upper,B_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,27.53,Lower,M_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,28.02,Upper,M_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_lin,24.76,Lower,M_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,26.68,Upper,M_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,2.466246,Lower,B_Bma,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,26.235125,Upper,B_Bma,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,15.49069,Lower,B_Bme,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,26.727889,Upper,B_Bme,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,25.334885,Lower,B_Bmi,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,26.730019,Upper,B_Bmi,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,26.093033,Lower,B_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_lin,27.161732,Upper,B_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,0.969994,Lower,B_Bma,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,30.802421,Upper,B_Bma,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,0.984978,Lower,B_Bme,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,30.818314,Upper,B_Bme,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,0.984978,Lower,B_Bmi,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,30.609185,Upper,B_Bmi,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,29.828102,Lower,B_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,30.716257,Upper,B_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,28.34,Lower,M_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,29.6,Upper,M_Surf,Max
+Hydrophinnae,Aspidomorphus,Asp_mue,0.950094998,Lower,B_Bma,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,28.9452076,Upper,B_Bma,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,0.965712011,Lower,B_Bme,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,29.5826149,Upper,B_Bme,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,0.965712011,Lower,B_Bmi,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,29.5826149,Upper,B_Bmi,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,27.43643951,Lower,B_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,29.74632835,Upper,B_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,26.86,Lower,M_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,28.88,Upper,M_Surf,Mean
+Hydrophinnae,Aspidomorphus,Asp_mue,24.82,Lower,M_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,28.2,Upper,M_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,0.932872,Lower,B_Bma,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,27.100173,Upper,B_Bma,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,0.945871,Lower,B_Bme,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,28.255157,Upper,B_Bme,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,0.945871,Lower,B_Bmi,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,28.255157,Upper,B_Bmi,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,24.683601,Lower,B_Surf,Min
+Hydrophinnae,Aspidomorphus,Asp_mue,28.898607,Upper,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_bel,11.134432,Lower,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_bel,30.961387,Upper,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_bel,27.546046,Lower,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_bel,30.92222,Upper,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_bel,28.047318,Lower,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_bel,30.789996,Upper,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_bel,27.663761,Lower,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_bel,30.806309,Upper,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_bel,26.43,Lower,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_bel,29.7,Upper,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_bel,10.47539806,Lower,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_bel,29.23039627,Upper,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_bel,24.48027039,Lower,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_bel,29.23244286,Upper,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_bel,24.5390873,Lower,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_bel,29.23454475,Upper,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_bel,24.50620651,Lower,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_bel,29.12925529,Upper,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_bel,24.1,Lower,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_bel,28.63,Upper,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_bel,22,Lower,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_bel,27.93,Upper,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_bel,9.846584,Lower,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_bel,27.743522,Upper,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_bel,21.856503,Lower,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_bel,27.745259,Upper,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_bel,21.888738,Lower,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_bel,27.754919,Upper,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_bel,22.065069,Lower,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_bel,27.700237,Upper,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_ino,16.136251,Lower,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_ino,31.277304,Upper,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_ino,17.854566,Lower,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_ino,31.2573,Upper,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_ino,17.854417,Lower,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_ino,31.2573,Upper,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_ino,30.122236,Lower,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_ino,31.107306,Upper,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_ino,29.21,Lower,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_ino,30.17,Upper,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_ino,14.64380932,Lower,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_ino,28.57042313,Upper,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_ino,14.64382267,Lower,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_ino,28.70659065,Upper,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_ino,14.64377785,Lower,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_ino,28.70659065,Upper,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_ino,26.44844055,Lower,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_ino,28.63474846,Upper,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_ino,26.58,Lower,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_ino,28.04,Upper,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_ino,19.97,Lower,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_ino,26.13,Upper,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_ino,13.146369,Lower,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_ino,26.309501,Upper,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_ino,14.041509,Lower,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_ino,26.288282,Upper,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_ino,14.040714,Lower,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_ino,26.288282,Upper,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_ino,19.174475,Lower,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_ino,26.411625,Upper,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_lap,4.49395,Lower,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_lap,34.802596,Upper,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_lap,4.494929,Lower,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_lap,34.957038,Upper,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_lap,4.494928,Lower,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_lap,34.824123,Upper,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_lap,30.803814,Lower,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_lap,34.611031,Upper,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_lap,29.88,Lower,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_lap,33.76,Upper,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_lap,4.41918993,Lower,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_lap,28.45908546,Upper,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_lap,4.42000103,Lower,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_lap,29.62394524,Upper,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_lap,4.42000103,Lower,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_lap,29.80139542,Upper,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_lap,26.46935844,Lower,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_lap,29.32825089,Upper,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_lap,25.43,Lower,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_lap,28.64,Upper,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_lap,16.34,Lower,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_lap,27.66,Upper,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_lap,4.361843,Lower,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_lap,25.660918,Upper,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_lap,4.362137,Lower,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_lap,26.879954,Upper,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_lap,4.362136,Lower,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_lap,27.580949,Upper,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_lap,17.057625,Lower,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_lap,27.409071,Upper,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_orn,2.780566,Lower,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_orn,33.999345,Upper,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_orn,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_orn,34.373414,Upper,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_orn,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_orn,34.41456,Upper,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_orn,23.668449,Lower,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_orn,34.3209,Upper,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_orn,21.47,Lower,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_orn,33.13,Upper,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_orn,2.688705921,Lower,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_orn,29.36031723,Upper,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_orn,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_orn,29.52953148,Upper,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_orn,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_orn,29.47096825,Upper,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_orn,19.45336533,Lower,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_orn,29.43584824,Upper,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_orn,18.52,Lower,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_orn,28.77,Upper,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_orn,14.96,Lower,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_orn,27.91,Upper,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_orn,2.588987,Lower,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_orn,27.567347,Upper,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_orn,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_orn,27.913341,Upper,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_orn,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_orn,27.913341,Upper,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_orn,15.758902,Lower,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_orn,28.427492,Upper,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_tor,1.270322,Lower,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_tor,31.592333,Upper,B_Bma,Max
+Hydrophinnae,Chitulia,Chi_tor,1.551778,Lower,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_tor,31.483699,Upper,B_Bme,Max
+Hydrophinnae,Chitulia,Chi_tor,1.937532,Lower,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_tor,31.500398,Upper,B_Bmi,Max
+Hydrophinnae,Chitulia,Chi_tor,30.072964,Lower,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_tor,31.172869,Upper,B_Surf,Max
+Hydrophinnae,Chitulia,Chi_tor,28.92,Lower,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_tor,30.36,Upper,M_Surf,Max
+Hydrophinnae,Chitulia,Chi_tor,1.223538995,Lower,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_tor,29.54185677,Upper,B_Bma,Mean
+Hydrophinnae,Chitulia,Chi_tor,1.49642396,Lower,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_tor,29.41668129,Upper,B_Bme,Mean
+Hydrophinnae,Chitulia,Chi_tor,1.862653017,Lower,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_tor,29.41668129,Upper,B_Bmi,Mean
+Hydrophinnae,Chitulia,Chi_tor,28.68291092,Lower,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_tor,29.36349678,Upper,B_Surf,Mean
+Hydrophinnae,Chitulia,Chi_tor,28.08,Lower,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_tor,28.72,Upper,M_Surf,Mean
+Hydrophinnae,Chitulia,Chi_tor,26.02,Lower,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_tor,26.74,Upper,M_Surf,Min
+Hydrophinnae,Chitulia,Chi_tor,1.179017,Lower,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_tor,27.357373,Upper,B_Bma,Min
+Hydrophinnae,Chitulia,Chi_tor,1.453316,Lower,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_tor,27.26523,Upper,B_Bme,Min
+Hydrophinnae,Chitulia,Chi_tor,1.774166,Lower,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_tor,27.26523,Upper,B_Bmi,Min
+Hydrophinnae,Chitulia,Chi_tor,25.665443,Lower,B_Surf,Min
+Hydrophinnae,Chitulia,Chi_tor,27.059841,Upper,B_Surf,Min
+Hydrophinnae,Disteira,Dis_kin,24.643426,Lower,B_Bma,Max
+Hydrophinnae,Disteira,Dis_kin,31.778742,Upper,B_Bma,Max
+Hydrophinnae,Disteira,Dis_kin,24.716447,Lower,B_Bme,Max
+Hydrophinnae,Disteira,Dis_kin,31.690583,Upper,B_Bme,Max
+Hydrophinnae,Disteira,Dis_kin,24.716447,Lower,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_kin,31.690583,Upper,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_kin,23.826597,Lower,B_Surf,Max
+Hydrophinnae,Disteira,Dis_kin,31.706841,Upper,B_Surf,Max
+Hydrophinnae,Disteira,Dis_kin,22.35,Lower,M_Surf,Max
+Hydrophinnae,Disteira,Dis_kin,31.04,Upper,M_Surf,Max
+Hydrophinnae,Disteira,Dis_kin,20.9519577,Lower,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_kin,28.34884453,Upper,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_kin,20.98699379,Lower,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_kin,28.48130608,Upper,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_kin,20.98699379,Lower,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_kin,28.54349518,Upper,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_kin,20.34290314,Lower,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_kin,28.68437004,Upper,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_kin,19.61,Lower,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_kin,28.4,Upper,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_kin,16.82,Lower,M_Surf,Min
+Hydrophinnae,Disteira,Dis_kin,25.49,Upper,M_Surf,Min
+Hydrophinnae,Disteira,Dis_kin,17.35734,Lower,B_Bma,Min
+Hydrophinnae,Disteira,Dis_kin,25.0847,Upper,B_Bma,Min
+Hydrophinnae,Disteira,Dis_kin,17.387754,Lower,B_Bme,Min
+Hydrophinnae,Disteira,Dis_kin,25.128844,Upper,B_Bme,Min
+Hydrophinnae,Disteira,Dis_kin,17.387754,Lower,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_kin,25.095001,Upper,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_kin,16.114992,Lower,B_Surf,Min
+Hydrophinnae,Disteira,Dis_kin,25.169174,Upper,B_Surf,Min
+Hydrophinnae,Disteira,Dis_maj,22.108713,Lower,B_Bma,Max
+Hydrophinnae,Disteira,Dis_maj,31.7309,Upper,B_Bma,Max
+Hydrophinnae,Disteira,Dis_maj,24.199822,Lower,B_Bme,Max
+Hydrophinnae,Disteira,Dis_maj,31.71893,Upper,B_Bme,Max
+Hydrophinnae,Disteira,Dis_maj,24.367506,Lower,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_maj,31.721164,Upper,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_maj,23.677359,Lower,B_Surf,Max
+Hydrophinnae,Disteira,Dis_maj,31.706718,Upper,B_Surf,Max
+Hydrophinnae,Disteira,Dis_maj,22.2,Lower,M_Surf,Max
+Hydrophinnae,Disteira,Dis_maj,30.88,Upper,M_Surf,Max
+Hydrophinnae,Disteira,Dis_maj,20.36574745,Lower,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_maj,28.60925293,Upper,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_maj,20.00559616,Lower,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_maj,28.63673019,Upper,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_maj,20.20474243,Lower,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_maj,28.62757492,Upper,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_maj,19.45336533,Lower,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_maj,28.64830399,Upper,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_maj,18.85,Lower,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_maj,28.45,Upper,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_maj,14.96,Lower,M_Surf,Min
+Hydrophinnae,Disteira,Dis_maj,26.33,Upper,M_Surf,Min
+Hydrophinnae,Disteira,Dis_maj,17.280062,Lower,B_Bma,Min
+Hydrophinnae,Disteira,Dis_maj,25.405169,Upper,B_Bma,Min
+Hydrophinnae,Disteira,Dis_maj,17.053774,Lower,B_Bme,Min
+Hydrophinnae,Disteira,Dis_maj,25.349762,Upper,B_Bme,Min
+Hydrophinnae,Disteira,Dis_maj,17.263986,Lower,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_maj,25.306514,Upper,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_maj,15.758902,Lower,B_Surf,Min
+Hydrophinnae,Disteira,Dis_maj,25.293213,Upper,B_Surf,Min
+Hydrophinnae,Disteira,Dis_nig,12.037569,Lower,B_Bma,Max
+Hydrophinnae,Disteira,Dis_nig,31.525193,Upper,B_Bma,Max
+Hydrophinnae,Disteira,Dis_nig,12.464193,Lower,B_Bme,Max
+Hydrophinnae,Disteira,Dis_nig,31.567979,Upper,B_Bme,Max
+Hydrophinnae,Disteira,Dis_nig,29.406904,Lower,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_nig,31.743015,Upper,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_nig,29.296114,Lower,B_Surf,Max
+Hydrophinnae,Disteira,Dis_nig,31.428383,Upper,B_Surf,Max
+Hydrophinnae,Disteira,Dis_nig,27.79,Lower,M_Surf,Max
+Hydrophinnae,Disteira,Dis_nig,29.97,Upper,M_Surf,Max
+Hydrophinnae,Disteira,Dis_nig,11.89969635,Lower,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_nig,29.36031723,Upper,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_nig,12.25784683,Lower,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_nig,29.52953148,Upper,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_nig,25.57484055,Lower,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_nig,29.57472992,Upper,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_nig,25.5723362,Lower,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_nig,29.47552872,Upper,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_nig,25.54,Lower,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_nig,28.78,Upper,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_nig,22.2,Lower,M_Surf,Min
+Hydrophinnae,Disteira,Dis_nig,27.92,Upper,M_Surf,Min
+Hydrophinnae,Disteira,Dis_nig,11.785727,Lower,B_Bma,Min
+Hydrophinnae,Disteira,Dis_nig,26.133976,Upper,B_Bma,Min
+Hydrophinnae,Disteira,Dis_nig,12.116675,Lower,B_Bme,Min
+Hydrophinnae,Disteira,Dis_nig,27.397853,Upper,B_Bme,Min
+Hydrophinnae,Disteira,Dis_nig,21.728257,Lower,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_nig,27.837836,Upper,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_nig,21.572006,Lower,B_Surf,Min
+Hydrophinnae,Disteira,Dis_nig,27.797247,Upper,B_Surf,Min
+Hydrophinnae,Disteira,Dis_sto,3.306424,Lower,B_Bma,Max
+Hydrophinnae,Disteira,Dis_sto,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Disteira,Dis_sto,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Disteira,Dis_sto,31.691533,Upper,B_Bme,Max
+Hydrophinnae,Disteira,Dis_sto,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_sto,31.729566,Upper,B_Bmi,Max
+Hydrophinnae,Disteira,Dis_sto,23.777231,Lower,B_Surf,Max
+Hydrophinnae,Disteira,Dis_sto,31.674873,Upper,B_Surf,Max
+Hydrophinnae,Disteira,Dis_sto,22.07,Lower,M_Surf,Max
+Hydrophinnae,Disteira,Dis_sto,31.41,Upper,M_Surf,Max
+Hydrophinnae,Disteira,Dis_sto,3.298203945,Lower,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_sto,28.63514137,Upper,B_Bma,Mean
+Hydrophinnae,Disteira,Dis_sto,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_sto,29.36748505,Upper,B_Bme,Mean
+Hydrophinnae,Disteira,Dis_sto,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_sto,29.36748505,Upper,B_Bmi,Mean
+Hydrophinnae,Disteira,Dis_sto,19.99373627,Lower,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_sto,29.34171867,Upper,B_Surf,Mean
+Hydrophinnae,Disteira,Dis_sto,19.03,Lower,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_sto,28.48,Upper,M_Surf,Mean
+Hydrophinnae,Disteira,Dis_sto,15.16,Lower,M_Surf,Min
+Hydrophinnae,Disteira,Dis_sto,27.75,Upper,M_Surf,Min
+Hydrophinnae,Disteira,Dis_sto,3.291564,Lower,B_Bma,Min
+Hydrophinnae,Disteira,Dis_sto,25.92859,Upper,B_Bma,Min
+Hydrophinnae,Disteira,Dis_sto,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Disteira,Dis_sto,27.268589,Upper,B_Bme,Min
+Hydrophinnae,Disteira,Dis_sto,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_sto,27.268589,Upper,B_Bmi,Min
+Hydrophinnae,Disteira,Dis_sto,15.765247,Lower,B_Surf,Min
+Hydrophinnae,Disteira,Dis_sto,28.283028,Upper,B_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_ann,2.823861,Lower,B_Bma,Max
+Hydrophinnae,Emydocephalus,Emy_ann,31.092149,Upper,B_Bma,Max
+Hydrophinnae,Emydocephalus,Emy_ann,8.455759,Lower,B_Bme,Max
+Hydrophinnae,Emydocephalus,Emy_ann,31.18018,Upper,B_Bme,Max
+Hydrophinnae,Emydocephalus,Emy_ann,11.94478,Lower,B_Bmi,Max
+Hydrophinnae,Emydocephalus,Emy_ann,31.322429,Upper,B_Bmi,Max
+Hydrophinnae,Emydocephalus,Emy_ann,23.913279,Lower,B_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_ann,31.458164,Upper,B_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_ann,22.79,Lower,M_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_ann,30.28,Upper,M_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_ann,2.754770041,Lower,B_Bma,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,28.35441971,Upper,B_Bma,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,8.254055023,Lower,B_Bme,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,28.82308006,Upper,B_Bme,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,10.95575333,Lower,B_Bmi,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,29.04446602,Upper,B_Bmi,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,20.37249184,Lower,B_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,29.13902283,Upper,B_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,19.29,Lower,M_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,28.52,Upper,M_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_ann,15.16,Lower,M_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_ann,27.5,Upper,M_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_ann,2.643154,Lower,B_Bma,Min
+Hydrophinnae,Emydocephalus,Emy_ann,25.668405,Upper,B_Bma,Min
+Hydrophinnae,Emydocephalus,Emy_ann,8.022836,Lower,B_Bme,Min
+Hydrophinnae,Emydocephalus,Emy_ann,26.557485,Upper,B_Bme,Min
+Hydrophinnae,Emydocephalus,Emy_ann,10.026843,Lower,B_Bmi,Min
+Hydrophinnae,Emydocephalus,Emy_ann,27.499954,Upper,B_Bmi,Min
+Hydrophinnae,Emydocephalus,Emy_ann,16.019545,Lower,B_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_ann,27.769011,Upper,B_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_iji,4.497138,Lower,B_Bma,Max
+Hydrophinnae,Emydocephalus,Emy_iji,27.765461,Upper,B_Bma,Max
+Hydrophinnae,Emydocephalus,Emy_iji,13.129488,Lower,B_Bme,Max
+Hydrophinnae,Emydocephalus,Emy_iji,30.075682,Upper,B_Bme,Max
+Hydrophinnae,Emydocephalus,Emy_iji,29.615671,Lower,B_Bmi,Max
+Hydrophinnae,Emydocephalus,Emy_iji,30.075682,Upper,B_Bmi,Max
+Hydrophinnae,Emydocephalus,Emy_iji,29.661682,Lower,B_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_iji,30.012287,Upper,B_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_iji,28.31,Lower,M_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_iji,29.73,Upper,M_Surf,Max
+Hydrophinnae,Emydocephalus,Emy_iji,4.217743874,Lower,B_Bma,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,24.09611702,Upper,B_Bma,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,11.63420296,Lower,B_Bme,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,27.14201355,Upper,B_Bme,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,25.04498482,Lower,B_Bmi,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,27.14201355,Upper,B_Bmi,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,24.94642067,Lower,B_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,27.38111877,Upper,B_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,24.45,Lower,M_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,26.84,Upper,M_Surf,Mean
+Hydrophinnae,Emydocephalus,Emy_iji,20.79,Lower,M_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_iji,23.72,Upper,M_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_iji,3.850088,Lower,B_Bma,Min
+Hydrophinnae,Emydocephalus,Emy_iji,21.910897,Upper,B_Bma,Min
+Hydrophinnae,Emydocephalus,Emy_iji,9.654112,Lower,B_Bme,Min
+Hydrophinnae,Emydocephalus,Emy_iji,23.633853,Upper,B_Bme,Min
+Hydrophinnae,Emydocephalus,Emy_iji,20.456174,Lower,B_Bmi,Min
+Hydrophinnae,Emydocephalus,Emy_iji,23.633853,Upper,B_Bmi,Min
+Hydrophinnae,Emydocephalus,Emy_iji,20.732624,Lower,B_Surf,Min
+Hydrophinnae,Emydocephalus,Emy_iji,24.050869,Upper,B_Surf,Min
+Hydrophinnae,Enhydrina,Enh_zwe,27.25483,Lower,B_Bma,Max
+Hydrophinnae,Enhydrina,Enh_zwe,30.775647,Upper,B_Bma,Max
+Hydrophinnae,Enhydrina,Enh_zwe,27.402498,Lower,B_Bme,Max
+Hydrophinnae,Enhydrina,Enh_zwe,30.761223,Upper,B_Bme,Max
+Hydrophinnae,Enhydrina,Enh_zwe,27.50525,Lower,B_Bmi,Max
+Hydrophinnae,Enhydrina,Enh_zwe,30.754632,Upper,B_Bmi,Max
+Hydrophinnae,Enhydrina,Enh_zwe,27.069994,Lower,B_Surf,Max
+Hydrophinnae,Enhydrina,Enh_zwe,30.769993,Upper,B_Surf,Max
+Hydrophinnae,Enhydrina,Enh_zwe,26.57,Lower,M_Surf,Max
+Hydrophinnae,Enhydrina,Enh_zwe,30.14,Upper,M_Surf,Max
+Hydrophinnae,Enhydrina,Enh_zwe,23.76125145,Lower,B_Bma,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,27.98782539,Upper,B_Bma,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,23.72825432,Lower,B_Bme,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,27.95034981,Upper,B_Bme,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,23.88709259,Lower,B_Bmi,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,27.79589272,Upper,B_Bmi,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,23.03633881,Lower,B_Surf,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,28.05387878,Upper,B_Surf,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,22.62,Lower,M_Surf,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,27.86,Upper,M_Surf,Mean
+Hydrophinnae,Enhydrina,Enh_zwe,17.76,Lower,M_Surf,Min
+Hydrophinnae,Enhydrina,Enh_zwe,25.37,Upper,M_Surf,Min
+Hydrophinnae,Enhydrina,Enh_zwe,20.144969,Lower,B_Bma,Min
+Hydrophinnae,Enhydrina,Enh_zwe,25.056902,Upper,B_Bma,Min
+Hydrophinnae,Enhydrina,Enh_zwe,20.106893,Lower,B_Bme,Min
+Hydrophinnae,Enhydrina,Enh_zwe,24.950813,Upper,B_Bme,Min
+Hydrophinnae,Enhydrina,Enh_zwe,20.315466,Lower,B_Bmi,Min
+Hydrophinnae,Enhydrina,Enh_zwe,24.457183,Upper,B_Bmi,Min
+Hydrophinnae,Enhydrina,Enh_zwe,19.494083,Lower,B_Surf,Min
+Hydrophinnae,Enhydrina,Enh_zwe,24.913727,Upper,B_Surf,Min
+Hydrophinnae,Ephalophis,Eph_gre,29.807986,Lower,B_Bma,Max
+Hydrophinnae,Ephalophis,Eph_gre,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Ephalophis,Eph_gre,29.687414,Lower,B_Bme,Max
+Hydrophinnae,Ephalophis,Eph_gre,31.489611,Upper,B_Bme,Max
+Hydrophinnae,Ephalophis,Eph_gre,29.687414,Lower,B_Bmi,Max
+Hydrophinnae,Ephalophis,Eph_gre,31.539415,Upper,B_Bmi,Max
+Hydrophinnae,Ephalophis,Eph_gre,30.201136,Lower,B_Surf,Max
+Hydrophinnae,Ephalophis,Eph_gre,31.688248,Upper,B_Surf,Max
+Hydrophinnae,Ephalophis,Eph_gre,26.83,Lower,M_Surf,Max
+Hydrophinnae,Ephalophis,Eph_gre,30.6,Upper,M_Surf,Max
+Hydrophinnae,Ephalophis,Eph_gre,25.08879662,Lower,B_Bma,Mean
+Hydrophinnae,Ephalophis,Eph_gre,27.68888092,Upper,B_Bma,Mean
+Hydrophinnae,Ephalophis,Eph_gre,25.12822723,Lower,B_Bme,Mean
+Hydrophinnae,Ephalophis,Eph_gre,27.70620537,Upper,B_Bme,Mean
+Hydrophinnae,Ephalophis,Eph_gre,25.14945984,Lower,B_Bmi,Mean
+Hydrophinnae,Ephalophis,Eph_gre,27.70620537,Upper,B_Bmi,Mean
+Hydrophinnae,Ephalophis,Eph_gre,24.98329353,Lower,B_Surf,Mean
+Hydrophinnae,Ephalophis,Eph_gre,27.55185699,Upper,B_Surf,Mean
+Hydrophinnae,Ephalophis,Eph_gre,23.8,Lower,M_Surf,Mean
+Hydrophinnae,Ephalophis,Eph_gre,27.6,Upper,M_Surf,Mean
+Hydrophinnae,Ephalophis,Eph_gre,19.06,Lower,M_Surf,Min
+Hydrophinnae,Ephalophis,Eph_gre,22.87,Upper,M_Surf,Min
+Hydrophinnae,Ephalophis,Eph_gre,20.891378,Lower,B_Bma,Min
+Hydrophinnae,Ephalophis,Eph_gre,22.791415,Upper,B_Bma,Min
+Hydrophinnae,Ephalophis,Eph_gre,21.185355,Lower,B_Bme,Min
+Hydrophinnae,Ephalophis,Eph_gre,22.855325,Upper,B_Bme,Min
+Hydrophinnae,Ephalophis,Eph_gre,21.185355,Lower,B_Bmi,Min
+Hydrophinnae,Ephalophis,Eph_gre,22.855325,Upper,B_Bmi,Min
+Hydrophinnae,Ephalophis,Eph_gre,20.623199,Lower,B_Surf,Min
+Hydrophinnae,Ephalophis,Eph_gre,21.97509,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,0.774787,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,31.866172,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,0.774787,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,31.907708,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,0.774787,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,31.863977,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,28.991812,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,31.460358,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,28.06,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,30.73,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_atr,0.769661009,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,29.6133728,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,0.769661009,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,29.63925171,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,0.769661009,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,29.61198044,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,25.21453667,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,29.48317528,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,25.1,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,28.91,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_atr,21.6,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,27.87,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,0.76193,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,27.740757,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,0.76193,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,27.739389,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,0.76193,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,27.754919,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,20.925644,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_atr,27.898632,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,26.452171,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,32.779187,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,30.088905,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,31.436376,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,30.088905,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,31.433255,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,29.869343,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,31.274303,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,28.85,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,30.21,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_bro,22.6550045,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,30.07436371,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,27.05626488,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,29.93048668,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,27.05626488,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,29.90300369,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,26.67987442,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,29.87164688,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,25.93,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,28.91,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_bro,22.52,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,28.5,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,18.207412,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,28.691711,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,22.020978,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,28.751371,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,22.020978,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,28.686724,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,21.700403,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_bro,28.676565,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,4.49395,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,34.530221,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,4.494929,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,34.727273,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,4.494928,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,34.727273,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,27.274258,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,34.544849,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,25.35,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,34.14,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_cya,4.41918993,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,29.66002464,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,4.42000103,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,29.35219002,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,4.42000103,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,29.30640984,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,20.33449554,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,29.22959518,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,19.65,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,28.69,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_cya,14.68,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,27.93,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,4.361843,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,27.743522,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,4.362137,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,27.745259,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,4.362136,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,27.716351,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,14.334088,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_cya,27.619345,Upper,B_Surf,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,26.839916,Lower,B_Bma,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,31.797664,Upper,B_Bma,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,30.014914,Lower,B_Bme,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,31.738277,Upper,B_Bme,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,30.014914,Lower,B_Bmi,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,31.738277,Upper,B_Bmi,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,29.729176,Lower,B_Surf,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,31.849993,Upper,B_Surf,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,28.44,Lower,M_Surf,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,31.58,Upper,M_Surf,Max
+Hydrophinnae,Hydrelaps,Hyd_dar,25.20544434,Lower,B_Bma,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,28.63514137,Upper,B_Bma,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,26.18106461,Lower,B_Bme,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,28.63673019,Upper,B_Bme,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,26.18106461,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,28.63166809,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,26.27598763,Lower,B_Surf,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,28.52223015,Upper,B_Surf,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,25.75,Lower,M_Surf,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,28.4,Upper,M_Surf,Mean
+Hydrophinnae,Hydrelaps,Hyd_dar,4.43,Lower,M_Surf,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,25.17,Upper,M_Surf,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,20.263147,Lower,B_Bma,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,25.109695,Upper,B_Bma,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,20.487046,Lower,B_Bme,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,25.120468,Upper,B_Bme,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,20.487046,Lower,B_Bmi,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,25.120468,Upper,B_Bmi,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,20.349993,Lower,B_Surf,Min
+Hydrophinnae,Hydrelaps,Hyd_dar,25.313011,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,1.69175,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,31.744933,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,1.691756,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,31.786006,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,1.691739,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,31.731574,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,20.143349,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,31.80821,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,17.79,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,31.04,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_ele,1.678079963,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,28.63514137,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,1.67808497,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,29.13941383,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,1.678068995,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,29.13909912,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,17.0535183,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,29.15101242,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,16.42,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,28.53,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_ele,13.91,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,27.39,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,1.665029,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,25.405169,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,1.665034,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,27.581522,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,1.665019,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,28.017013,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,14.522221,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_ele,28.182711,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,0.774787,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,32.718627,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,0.774787,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,32.040109,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,0.774787,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,31.670682,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,29.823879,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,31.549145,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,27.8,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,30.71,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_fas,0.769661009,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,30.1262455,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,0.769661009,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,29.83772659,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,0.769661009,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,29.83772659,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,27.46417236,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,29.65006256,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,26.85,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,28.98,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_fas,22.37,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,28.2,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,0.76193,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,28.950947,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,0.76193,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,28.682376,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,0.76193,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,28.682376,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,23.706972,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_fas,28.546238,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_har,4.850863,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_har,32.37381,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_har,11.001043,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_har,32.109816,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_har,17.854417,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_har,32.25619,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_har,28.611021,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_har,31.792,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_har,27.23,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_har,30.92,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_har,4.612432003,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,29.80098915,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,10.36303234,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,29.67215919,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,12.46654034,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,29.80139542,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,24.31901932,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,29.54953957,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,24.43,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,28.98,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_har,10.58,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_har,27.95,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_har,4.372358,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_har,27.869488,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_har,9.635908,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_har,27.910254,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_har,13.30221,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_har,27.890283,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_har,18.599472,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_har,28.119993,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,30.331807,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,31.276198,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,30.33279,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,31.268311,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,30.572987,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,31.268311,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,30.740908,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,31.249992,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,28.92,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,29.56,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_jer,28.26596642,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,29.44537544,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,28.26540375,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,29.4298687,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,28.30926323,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,29.4298687,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,28.19447517,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,29.48317528,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,27.65,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,28.91,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_jer,25.52,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,27.67,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,25.034903,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,27.28203,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,25.048516,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,27.26523,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,25.060659,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,27.26523,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,24.957956,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_jer,27.139994,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,26.722631,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,27.205146,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,31.418772,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,27.205146,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,31.418772,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,26.811031,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,25.25,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,30.75,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_mac,23.53270149,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,28.5435524,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,23.52291489,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,28.63673019,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,23.72843361,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,28.62757492,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,22.91228676,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,28.83203888,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,21.94,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,28.49,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_mac,16.95,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,26.11,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,18.548106,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,24.997239,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,18.548106,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,25.014367,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,18.582736,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,25.044071,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,18.352158,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_mac,25.613119,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,24.13729,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,31.70644,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,24.135054,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,31.729691,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,24.144089,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,31.719821,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,23.668449,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,31.656967,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,21.47,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,30.48,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_oce,20.12745857,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,27.98275566,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,20.00559616,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,28.00186539,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,20.12346458,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,27.99695206,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,19.45336533,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,28.10697746,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,18.52,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,27.91,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_oce,14.96,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,25.59,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,17.296363,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,25.114361,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,17.053774,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,25.099128,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,17.219864,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,25.095001,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,15.758902,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_oce,25.234674,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,0.763163,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,34.611733,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,0.763163,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,34.705059,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,0.765218,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,34.735521,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,18.242945,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,34.546974,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,17.76,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,29.28,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_pla,0.755423009,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,29.6133728,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,0.755423009,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,29.63925171,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,0.756169975,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,29.80139542,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,13.89309883,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,29.59851074,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,13.47,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,29.01,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_pla,9.46,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,28.22,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,0.7483,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,27.743522,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,0.7483,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,27.745259,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,0.748644,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,27.748261,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,10.589993,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_pla,28.578259,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,0.840181,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,31.436315,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,1.269583,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,31.483699,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,1.403077,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,31.483699,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,28.883423,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,31.172869,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,28.48,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,28.95,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_sch,0.821367025,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,29.3469696,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,1.222264051,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,29.31983757,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,1.356371045,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,29.31983757,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,24.76617622,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,29.20629692,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,24.83,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,28.62,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_sch,20.05,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,26.23,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,0.80208,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,26.289394,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,1.177864,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,26.406581,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,1.309038,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,26.564217,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,19.688683,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_sch,26.846239,Upper,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,4.49395,Lower,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,33.92715,Upper,B_Bma,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,4.494929,Lower,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,34.697235,Upper,B_Bme,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,4.494928,Lower,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,34.697235,Upper,B_Bmi,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,29.823879,Lower,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,34.438526,Upper,B_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,28.53,Lower,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,32.08,Upper,M_Surf,Max
+Hydrophinnae,Hydrophis ,Hyd_spi,4.41918993,Lower,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,29.20546722,Upper,B_Bma,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,4.42000103,Lower,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,29.44252586,Upper,B_Bme,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,4.42000103,Lower,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,29.36393929,Upper,B_Bmi,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,25.93652344,Lower,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,29.35058975,Upper,B_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,25.07,Lower,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,28.66,Upper,M_Surf,Mean
+Hydrophinnae,Hydrophis ,Hyd_spi,17.01,Lower,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,27.95,Upper,M_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,4.361843,Lower,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,27.380331,Upper,B_Bma,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,4.362137,Lower,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,27.44721,Upper,B_Bme,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,4.362136,Lower,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,27.842802,Upper,B_Bmi,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,16.112888,Lower,B_Surf,Min
+Hydrophinnae,Hydrophis ,Hyd_spi,27.877098,Upper,B_Surf,Min
+Hydrophinnae,Lapemis,Lap_cur,3.306424,Lower,B_Bma,Max
+Hydrophinnae,Lapemis,Lap_cur,31.988742,Upper,B_Bma,Max
+Hydrophinnae,Lapemis,Lap_cur,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Lapemis,Lap_cur,32.487614,Upper,B_Bme,Max
+Hydrophinnae,Lapemis,Lap_cur,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Lapemis,Lap_cur,33.145204,Upper,B_Bmi,Max
+Hydrophinnae,Lapemis,Lap_cur,27.273977,Lower,B_Surf,Max
+Hydrophinnae,Lapemis,Lap_cur,34.297703,Upper,B_Surf,Max
+Hydrophinnae,Lapemis,Lap_cur,27.17,Lower,M_Surf,Max
+Hydrophinnae,Lapemis,Lap_cur,32.94,Upper,M_Surf,Max
+Hydrophinnae,Lapemis,Lap_cur,3.298203945,Lower,B_Bma,Mean
+Hydrophinnae,Lapemis,Lap_cur,29.42299652,Upper,B_Bma,Mean
+Hydrophinnae,Lapemis,Lap_cur,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Lapemis,Lap_cur,29.29803848,Upper,B_Bme,Mean
+Hydrophinnae,Lapemis,Lap_cur,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Lapemis,Lap_cur,29.29803848,Upper,B_Bmi,Mean
+Hydrophinnae,Lapemis,Lap_cur,23.5243187,Lower,B_Surf,Mean
+Hydrophinnae,Lapemis,Lap_cur,29.34171867,Upper,B_Surf,Mean
+Hydrophinnae,Lapemis,Lap_cur,23.38,Lower,M_Surf,Mean
+Hydrophinnae,Lapemis,Lap_cur,28.97,Upper,M_Surf,Mean
+Hydrophinnae,Lapemis,Lap_cur,19.35,Lower,M_Surf,Min
+Hydrophinnae,Lapemis,Lap_cur,27.75,Upper,M_Surf,Min
+Hydrophinnae,Lapemis,Lap_cur,3.291564,Lower,B_Bma,Min
+Hydrophinnae,Lapemis,Lap_cur,27.912025,Upper,B_Bma,Min
+Hydrophinnae,Lapemis,Lap_cur,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Lapemis,Lap_cur,27.916936,Upper,B_Bme,Min
+Hydrophinnae,Lapemis,Lap_cur,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Lapemis,Lap_cur,27.916936,Upper,B_Bmi,Min
+Hydrophinnae,Lapemis,Lap_cur,18.353373,Lower,B_Surf,Min
+Hydrophinnae,Lapemis,Lap_cur,28.283028,Upper,B_Surf,Min
+Laticaudinae,Laticauda,Lat_col,0.838468,Lower,B_Bma,Max
+Laticaudinae,Laticauda,Lat_col,33.663246,Upper,B_Bma,Max
+Laticaudinae,Laticauda,Lat_col,0.931618,Lower,B_Bme,Max
+Laticaudinae,Laticauda,Lat_col,32.123302,Upper,B_Bme,Max
+Laticaudinae,Laticauda,Lat_col,1.010037,Lower,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_col,31.871476,Upper,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_col,18.414684,Lower,B_Surf,Max
+Laticaudinae,Laticauda,Lat_col,31.498959,Upper,B_Surf,Max
+Laticaudinae,Laticauda,Lat_col,16.64,Lower,M_Surf,Max
+Laticaudinae,Laticauda,Lat_col,30.71,Upper,M_Surf,Max
+Laticaudinae,Laticauda,Lat_col,0.803296983,Lower,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_col,30.65459633,Upper,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_col,0.881061018,Lower,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_col,29.77993774,Upper,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_col,0.945308983,Lower,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_col,29.65172386,Upper,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_col,14.61411476,Lower,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_col,29.78743172,Upper,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_col,14.28,Lower,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_col,29.12,Upper,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_col,12.09,Lower,M_Surf,Min
+Laticaudinae,Laticauda,Lat_col,28.78,Upper,M_Surf,Min
+Laticaudinae,Laticauda,Lat_col,0.771717,Lower,B_Bma,Min
+Laticaudinae,Laticauda,Lat_col,28.740526,Upper,B_Bma,Min
+Laticaudinae,Laticauda,Lat_col,0.833268,Lower,B_Bme,Min
+Laticaudinae,Laticauda,Lat_col,28.771894,Upper,B_Bme,Min
+Laticaudinae,Laticauda,Lat_col,0.876779,Lower,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_col,28.771894,Upper,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_col,11.326904,Lower,B_Surf,Min
+Laticaudinae,Laticauda,Lat_col,29.222254,Upper,B_Surf,Min
+Laticaudinae,Laticauda,Lat_cro,2.960092,Lower,B_Bma,Max
+Laticaudinae,Laticauda,Lat_cro,19.547049,Upper,B_Bma,Max
+Laticaudinae,Laticauda,Lat_cro,14.471674,Lower,B_Bme,Max
+Laticaudinae,Laticauda,Lat_cro,30.121017,Upper,B_Bme,Max
+Laticaudinae,Laticauda,Lat_cro,30.119705,Lower,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_cro,30.128734,Upper,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_cro,30.199993,Lower,B_Surf,Max
+Laticaudinae,Laticauda,Lat_cro,30.220663,Upper,B_Surf,Max
+Laticaudinae,Laticauda,Lat_cro,28.81,Lower,M_Surf,Max
+Laticaudinae,Laticauda,Lat_cro,29.54,Upper,M_Surf,Max
+Laticaudinae,Laticauda,Lat_cro,1.959332943,Lower,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_cro,17.63302231,Upper,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_cro,4.712090015,Lower,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_cro,28.77639961,Upper,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_cro,28.72911835,Lower,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_cro,28.77639961,Upper,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_cro,28.8342514,Lower,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_cro,28.90229797,Upper,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_cro,27.86,Lower,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_cro,28.39,Upper,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_cro,25.33,Lower,M_Surf,Min
+Laticaudinae,Laticauda,Lat_cro,27.25,Upper,M_Surf,Min
+Laticaudinae,Laticauda,Lat_cro,2.73722,Lower,B_Bma,Min
+Laticaudinae,Laticauda,Lat_cro,15.956361,Upper,B_Bma,Min
+Laticaudinae,Laticauda,Lat_cro,11.769629,Lower,B_Bme,Min
+Laticaudinae,Laticauda,Lat_cro,26.922431,Upper,B_Bme,Min
+Laticaudinae,Laticauda,Lat_cro,26.857117,Lower,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_cro,26.922431,Upper,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_cro,27.408997,Lower,B_Surf,Min
+Laticaudinae,Laticauda,Lat_cro,27.491219,Upper,B_Surf,Min
+Laticaudinae,Laticauda,Lat_fro,4.427899,Lower,B_Bma,Max
+Laticaudinae,Laticauda,Lat_fro,29.74057,Upper,B_Bma,Max
+Laticaudinae,Laticauda,Lat_fro,11.722379,Lower,B_Bme,Max
+Laticaudinae,Laticauda,Lat_fro,29.825383,Upper,B_Bme,Max
+Laticaudinae,Laticauda,Lat_fro,29.396684,Lower,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_fro,30.012109,Upper,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_fro,29.281475,Lower,B_Surf,Max
+Laticaudinae,Laticauda,Lat_fro,29.857187,Upper,B_Surf,Max
+Laticaudinae,Laticauda,Lat_fro,28.45,Lower,M_Surf,Max
+Laticaudinae,Laticauda,Lat_fro,29,Upper,M_Surf,Max
+Laticaudinae,Laticauda,Lat_fro,4.235527992,Lower,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_fro,27.97312355,Upper,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_fro,10.74350643,Lower,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_fro,27.99880219,Upper,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_fro,27.04367256,Lower,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_fro,28.49919891,Upper,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_fro,27.27910995,Lower,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_fro,28.54301453,Upper,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_fro,24.63,Lower,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_fro,28.11,Upper,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_fro,25.04,Lower,M_Surf,Min
+Laticaudinae,Laticauda,Lat_fro,27.25,Upper,M_Surf,Min
+Laticaudinae,Laticauda,Lat_fro,4.037882,Lower,B_Bma,Min
+Laticaudinae,Laticauda,Lat_fro,25.935305,Upper,B_Bma,Min
+Laticaudinae,Laticauda,Lat_fro,9.715475,Lower,B_Bme,Min
+Laticaudinae,Laticauda,Lat_fro,25.958607,Upper,B_Bme,Min
+Laticaudinae,Laticauda,Lat_fro,24.30435,Lower,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_fro,26.703679,Upper,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_fro,25.191017,Lower,B_Surf,Min
+Laticaudinae,Laticauda,Lat_fro,27.012423,Upper,B_Surf,Min
+Laticaudinae,Laticauda,Lat_lat,1.364944,Lower,B_Bma,Max
+Laticaudinae,Laticauda,Lat_lat,32.058442,Upper,B_Bma,Max
+Laticaudinae,Laticauda,Lat_lat,1.454146,Lower,B_Bme,Max
+Laticaudinae,Laticauda,Lat_lat,32.077299,Upper,B_Bme,Max
+Laticaudinae,Laticauda,Lat_lat,1.581322,Lower,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_lat,32.027225,Upper,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_lat,27.439276,Lower,B_Surf,Max
+Laticaudinae,Laticauda,Lat_lat,31.363125,Upper,B_Surf,Max
+Laticaudinae,Laticauda,Lat_lat,26.18,Lower,M_Surf,Max
+Laticaudinae,Laticauda,Lat_lat,30.07,Upper,M_Surf,Max
+Laticaudinae,Laticauda,Lat_lat,1.525097966,Lower,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_lat,29.50019264,Upper,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_lat,1.786074996,Lower,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_lat,29.62257957,Upper,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_lat,2.823700905,Lower,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_lat,29.59292412,Upper,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_lat,24.26794052,Lower,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_lat,29.66009331,Upper,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_lat,23.6,Lower,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_lat,28.98,Upper,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_lat,19.54,Lower,M_Surf,Min
+Laticaudinae,Laticauda,Lat_lat,28.36,Upper,M_Surf,Min
+Laticaudinae,Laticauda,Lat_lat,1.340286,Lower,B_Bma,Min
+Laticaudinae,Laticauda,Lat_lat,27.772537,Upper,B_Bma,Min
+Laticaudinae,Laticauda,Lat_lat,1.380167,Lower,B_Bme,Min
+Laticaudinae,Laticauda,Lat_lat,28.742546,Upper,B_Bme,Min
+Laticaudinae,Laticauda,Lat_lat,1.444094,Lower,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_lat,28.770505,Upper,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_lat,19.537033,Lower,B_Surf,Min
+Laticaudinae,Laticauda,Lat_lat,28.895123,Upper,B_Surf,Min
+Laticaudinae,Laticauda,Lat_sai,1.468812,Lower,B_Bma,Max
+Laticaudinae,Laticauda,Lat_sai,28.295925,Upper,B_Bma,Max
+Laticaudinae,Laticauda,Lat_sai,1.473223,Lower,B_Bme,Max
+Laticaudinae,Laticauda,Lat_sai,29.072822,Upper,B_Bme,Max
+Laticaudinae,Laticauda,Lat_sai,1.482762,Lower,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_sai,29.072822,Upper,B_Bmi,Max
+Laticaudinae,Laticauda,Lat_sai,27.439276,Lower,B_Surf,Max
+Laticaudinae,Laticauda,Lat_sai,28.713352,Upper,B_Surf,Max
+Laticaudinae,Laticauda,Lat_sai,26.01,Lower,M_Surf,Max
+Laticaudinae,Laticauda,Lat_sai,29.01,Upper,M_Surf,Max
+Laticaudinae,Laticauda,Lat_sai,1.463956952,Lower,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_sai,25.58547211,Upper,B_Bma,Mean
+Laticaudinae,Laticauda,Lat_sai,1.467736006,Lower,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_sai,25.81796455,Upper,B_Bme,Mean
+Laticaudinae,Laticauda,Lat_sai,1.475695014,Lower,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_sai,25.81796455,Upper,B_Bmi,Mean
+Laticaudinae,Laticauda,Lat_sai,24.34329414,Lower,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_sai,26.01441383,Upper,B_Surf,Mean
+Laticaudinae,Laticauda,Lat_sai,23.8,Lower,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_sai,25.77,Upper,M_Surf,Mean
+Laticaudinae,Laticauda,Lat_sai,21.19,Lower,M_Surf,Min
+Laticaudinae,Laticauda,Lat_sai,23.39,Upper,M_Surf,Min
+Laticaudinae,Laticauda,Lat_sai,1.459684,Lower,B_Bma,Min
+Laticaudinae,Laticauda,Lat_sai,22.85865,Upper,B_Bma,Min
+Laticaudinae,Laticauda,Lat_sai,1.462483,Lower,B_Bme,Min
+Laticaudinae,Laticauda,Lat_sai,22.813774,Upper,B_Bme,Min
+Laticaudinae,Laticauda,Lat_sai,1.469097,Lower,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_sai,22.813774,Upper,B_Bmi,Min
+Laticaudinae,Laticauda,Lat_sai,22.005396,Lower,B_Surf,Min
+Laticaudinae,Laticauda,Lat_sai,23.917751,Upper,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cog,3.306424,Lower,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_cog,31.092149,Upper,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_cog,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_cog,31.214132,Upper,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_cog,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_cog,31.160769,Upper,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_cog,27.198679,Lower,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cog,31.049994,Upper,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cog,26.43,Lower,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cog,30.71,Upper,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cog,3.298203945,Lower,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_cog,28.32156563,Upper,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_cog,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_cog,29.25537109,Upper,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_cog,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_cog,29.26267242,Upper,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_cog,23.39672661,Lower,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cog,29.43791199,Upper,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cog,23.38,Lower,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cog,28.61,Upper,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cog,19.01,Lower,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cog,27.75,Upper,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cog,3.291564,Lower,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_cog,24.617582,Upper,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_cog,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_cog,27.998953,Upper,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_cog,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_cog,27.995829,Upper,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_cog,19.000151,Lower,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cog,28.603737,Upper,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cze,3.236087,Lower,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_cze,31.653776,Upper,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_cze,3.471856,Lower,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_cze,31.500228,Upper,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_cze,3.730198,Lower,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_cze,31.500228,Upper,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_cze,30.606596,Lower,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cze,31.661812,Upper,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cze,28.26,Lower,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cze,30.26,Upper,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_cze,2.763382912,Lower,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_cze,27.59739494,Upper,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_cze,2.96112299,Lower,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_cze,27.62459946,Upper,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_cze,3.113271952,Lower,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_cze,27.62459946,Upper,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_cze,26.5383358,Lower,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cze,28.68959045,Upper,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cze,26.11,Lower,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cze,28.45,Upper,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_cze,19.5,Lower,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cze,26.46,Upper,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cze,3.046746,Lower,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_cze,22.8921,Upper,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_cze,3.24641,Lower,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_cze,22.955454,Upper,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_cze,3.508543,Lower,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_cze,23.200687,Upper,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_cze,20.570002,Lower,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_cze,26.145487,Upper,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_mel,4.924147,Lower,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_mel,31.121386,Upper,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_mel,16.019871,Lower,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_mel,31.150508,Upper,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_mel,29.054318,Lower,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_mel,31.11389,Upper,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_mel,29.046963,Lower,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_mel,31.049994,Upper,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_mel,27.61,Lower,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_mel,30.28,Upper,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_mel,4.580749035,Lower,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_mel,29.70298195,Upper,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_mel,15.24167538,Lower,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_mel,29.6590786,Upper,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_mel,25.04498482,Lower,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_mel,29.6590786,Upper,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_mel,24.32300758,Lower,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_mel,29.36587715,Upper,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_mel,23.13,Lower,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_mel,28.56,Upper,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_mel,18.32,Lower,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_mel,26.3,Upper,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_mel,4.051898,Lower,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_mel,27.862473,Upper,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_mel,14.385987,Lower,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_mel,27.854206,Upper,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_mel,19.621121,Lower,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_mel,27.854206,Upper,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_mel,18.797098,Lower,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_mel,27.438494,Upper,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.55181,Lower,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_pac,31.703877,Upper,B_Bma,Max
+Hydrophinnae,Leioselasma,Lei_pac,28.243984,Lower,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_pac,31.751343,Upper,B_Bme,Max
+Hydrophinnae,Leioselasma,Lei_pac,28.244717,Lower,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_pac,31.731574,Upper,B_Bmi,Max
+Hydrophinnae,Leioselasma,Lei_pac,29.436045,Lower,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_pac,31.792,Upper,B_Surf,Max
+Hydrophinnae,Leioselasma,Lei_pac,27.94,Lower,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_pac,30.81,Upper,M_Surf,Max
+Hydrophinnae,Leioselasma,Lei_pac,23.98199844,Lower,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_pac,28.32156563,Upper,B_Bma,Mean
+Hydrophinnae,Leioselasma,Lei_pac,26.10940742,Lower,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_pac,28.63673019,Upper,B_Bme,Mean
+Hydrophinnae,Leioselasma,Lei_pac,26.10950661,Lower,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_pac,28.62757492,Upper,B_Bmi,Mean
+Hydrophinnae,Leioselasma,Lei_pac,27.03351593,Lower,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_pac,28.52223015,Upper,B_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_pac,26.67,Lower,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_pac,28.31,Upper,M_Surf,Mean
+Hydrophinnae,Leioselasma,Lei_pac,20.92,Lower,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.24,Upper,M_Surf,Min
+Hydrophinnae,Leioselasma,Lei_pac,20.485904,Lower,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.058014,Upper,B_Bma,Min
+Hydrophinnae,Leioselasma,Lei_pac,20.362012,Lower,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.166295,Upper,B_Bme,Min
+Hydrophinnae,Leioselasma,Lei_pac,20.415293,Lower,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.173066,Upper,B_Bmi,Min
+Hydrophinnae,Leioselasma,Lei_pac,20.344795,Lower,B_Surf,Min
+Hydrophinnae,Leioselasma,Lei_pac,25.235434,Upper,B_Surf,Min
+Hydrophinnae,Mediohydrophis,Med_klo,14.945988,Lower,B_Bma,Max
+Hydrophinnae,Mediohydrophis,Med_klo,32.270038,Upper,B_Bma,Max
+Hydrophinnae,Mediohydrophis,Med_klo,27.546046,Lower,B_Bme,Max
+Hydrophinnae,Mediohydrophis,Med_klo,32.396286,Upper,B_Bme,Max
+Hydrophinnae,Mediohydrophis,Med_klo,30.631857,Lower,B_Bmi,Max
+Hydrophinnae,Mediohydrophis,Med_klo,31.80547,Upper,B_Bmi,Max
+Hydrophinnae,Mediohydrophis,Med_klo,30.789621,Lower,B_Surf,Max
+Hydrophinnae,Mediohydrophis,Med_klo,31.249992,Upper,B_Surf,Max
+Hydrophinnae,Mediohydrophis,Med_klo,29.57,Lower,M_Surf,Max
+Hydrophinnae,Mediohydrophis,Med_klo,30.36,Upper,M_Surf,Max
+Hydrophinnae,Mediohydrophis,Med_klo,13.22431564,Lower,B_Bma,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,29.68927956,Upper,B_Bma,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,25.60174179,Lower,B_Bme,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,29.76032066,Upper,B_Bme,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,28.48443794,Lower,B_Bmi,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,29.61865807,Upper,B_Bmi,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,28.64466286,Lower,B_Surf,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,29.48317528,Upper,B_Surf,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,28.19,Lower,M_Surf,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,28.91,Upper,M_Surf,Mean
+Hydrophinnae,Mediohydrophis,Med_klo,26.02,Lower,M_Surf,Min
+Hydrophinnae,Mediohydrophis,Med_klo,26.47,Upper,M_Surf,Min
+Hydrophinnae,Mediohydrophis,Med_klo,11.921825,Lower,B_Bma,Min
+Hydrophinnae,Mediohydrophis,Med_klo,27.28203,Upper,B_Bma,Min
+Hydrophinnae,Mediohydrophis,Med_klo,22.965009,Lower,B_Bme,Min
+Hydrophinnae,Mediohydrophis,Med_klo,27.26523,Upper,B_Bme,Min
+Hydrophinnae,Mediohydrophis,Med_klo,25.654135,Lower,B_Bmi,Min
+Hydrophinnae,Mediohydrophis,Med_klo,27.26523,Upper,B_Bmi,Min
+Hydrophinnae,Mediohydrophis,Med_klo,25.665443,Lower,B_Surf,Min
+Hydrophinnae,Mediohydrophis,Med_klo,27.139994,Upper,B_Surf,Min
+Hydrophinnae,Microcephalophis,Mic_gra,1.79983,Lower,B_Bma,Max
+Hydrophinnae,Microcephalophis,Mic_gra,32.167955,Upper,B_Bma,Max
+Hydrophinnae,Microcephalophis,Mic_gra,1.79983,Lower,B_Bme,Max
+Hydrophinnae,Microcephalophis,Mic_gra,32.684723,Upper,B_Bme,Max
+Hydrophinnae,Microcephalophis,Mic_gra,1.79983,Lower,B_Bmi,Max
+Hydrophinnae,Microcephalophis,Mic_gra,33.722721,Upper,B_Bmi,Max
+Hydrophinnae,Microcephalophis,Mic_gra,29.786995,Lower,B_Surf,Max
+Hydrophinnae,Microcephalophis,Mic_gra,34.297703,Upper,B_Surf,Max
+Hydrophinnae,Microcephalophis,Mic_gra,27.82,Lower,M_Surf,Max
+Hydrophinnae,Microcephalophis,Mic_gra,33.57,Upper,M_Surf,Max
+Hydrophinnae,Microcephalophis,Mic_gra,1.735164046,Lower,B_Bma,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,29.4233532,Upper,B_Bma,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,1.735164046,Lower,B_Bme,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,29.31452942,Upper,B_Bme,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,1.735164046,Lower,B_Bmi,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,29.31452942,Upper,B_Bmi,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,26.35003662,Lower,B_Surf,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,29.37935638,Upper,B_Surf,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,25.22,Lower,M_Surf,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,28.63,Upper,M_Surf,Mean
+Hydrophinnae,Microcephalophis,Mic_gra,19.5,Lower,M_Surf,Min
+Hydrophinnae,Microcephalophis,Mic_gra,27.67,Upper,M_Surf,Min
+Hydrophinnae,Microcephalophis,Mic_gra,1.66039,Lower,B_Bma,Min
+Hydrophinnae,Microcephalophis,Mic_gra,26.584664,Upper,B_Bma,Min
+Hydrophinnae,Microcephalophis,Mic_gra,1.66039,Lower,B_Bme,Min
+Hydrophinnae,Microcephalophis,Mic_gra,26.635617,Upper,B_Bme,Min
+Hydrophinnae,Microcephalophis,Mic_gra,1.66039,Lower,B_Bmi,Min
+Hydrophinnae,Microcephalophis,Mic_gra,26.635617,Upper,B_Bmi,Min
+Hydrophinnae,Microcephalophis,Mic_gra,18.598024,Lower,B_Surf,Min
+Hydrophinnae,Microcephalophis,Mic_gra,27.250793,Upper,B_Surf,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,8.400816,Lower,B_Bma,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,32.718627,Upper,B_Bma,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,8.723248,Lower,B_Bme,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,32.396286,Upper,B_Bme,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,10.592991,Lower,B_Bmi,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,31.80547,Upper,B_Bmi,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,30.182119,Lower,B_Surf,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,31.334879,Upper,B_Surf,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,28.85,Lower,M_Surf,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,30.71,Upper,M_Surf,Max
+Hydrophinnae,Polyodontognathus,Pol_cae,8.807614326,Lower,B_Bma,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,29.95357513,Upper,B_Bma,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,9.811675072,Lower,B_Bme,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,29.83772659,Upper,B_Bme,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,12.19693279,Lower,B_Bmi,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,29.83772659,Upper,B_Bmi,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,26.44844055,Lower,B_Surf,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,29.60019875,Upper,B_Surf,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,26.58,Lower,M_Surf,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,28.79,Upper,M_Surf,Mean
+Hydrophinnae,Polyodontognathus,Pol_cae,19.97,Lower,M_Surf,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,28.2,Upper,M_Surf,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,7.570557,Lower,B_Bma,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,28.950947,Upper,B_Bma,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,7.986992,Lower,B_Bme,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,28.682376,Upper,B_Bme,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,9.262359,Lower,B_Bmi,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,28.682376,Upper,B_Bmi,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,19.174475,Lower,B_Surf,Min
+Hydrophinnae,Polyodontognathus,Pol_cae,28.546238,Upper,B_Surf,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,5.857217,Lower,B_Bma,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,29.959936,Upper,B_Bma,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,11.492021,Lower,B_Bme,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,30.314232,Upper,B_Bme,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,26.016118,Lower,B_Bmi,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,30.314232,Upper,B_Bmi,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,29.529985,Lower,B_Surf,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,30.083128,Upper,B_Surf,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,27.85,Lower,M_Surf,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,29.37,Upper,M_Surf,Max
+Laticaudinae,Pseudolaticauda,Pse_sem,5.33636713,Lower,B_Bma,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,26.32520866,Upper,B_Bma,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,10.42643261,Lower,B_Bme,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,28.4851265,Upper,B_Bme,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,21.93911362,Lower,B_Bmi,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,28.50012589,Upper,B_Bmi,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,23.91344261,Lower,B_Surf,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,28.45004272,Upper,B_Surf,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,23.6,Lower,M_Surf,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,27.77,Upper,M_Surf,Mean
+Laticaudinae,Pseudolaticauda,Pse_sem,19.23,Lower,M_Surf,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,26.37,Upper,M_Surf,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,4.992746,Lower,B_Bma,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,22.258631,Upper,B_Bma,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,9.125124,Lower,B_Bme,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,26.202714,Upper,B_Bme,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,18.230362,Lower,B_Bmi,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,26.19469,Upper,B_Bmi,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,18.938799,Lower,B_Surf,Min
+Laticaudinae,Pseudolaticauda,Pse_sem,26.67466,Upper,B_Surf,Min
+Hydrophinnae,Thalassophina,Tha_vip,3.306424,Lower,B_Bma,Max
+Hydrophinnae,Thalassophina,Tha_vip,31.884035,Upper,B_Bma,Max
+Hydrophinnae,Thalassophina,Tha_vip,3.306424,Lower,B_Bme,Max
+Hydrophinnae,Thalassophina,Tha_vip,32.323282,Upper,B_Bme,Max
+Hydrophinnae,Thalassophina,Tha_vip,3.318004,Lower,B_Bmi,Max
+Hydrophinnae,Thalassophina,Tha_vip,32.420055,Upper,B_Bmi,Max
+Hydrophinnae,Thalassophina,Tha_vip,30.580111,Lower,B_Surf,Max
+Hydrophinnae,Thalassophina,Tha_vip,34.297703,Upper,B_Surf,Max
+Hydrophinnae,Thalassophina,Tha_vip,28.92,Lower,M_Surf,Max
+Hydrophinnae,Thalassophina,Tha_vip,32.94,Upper,M_Surf,Max
+Hydrophinnae,Thalassophina,Tha_vip,3.298203945,Lower,B_Bma,Mean
+Hydrophinnae,Thalassophina,Tha_vip,29.6256485,Upper,B_Bma,Mean
+Hydrophinnae,Thalassophina,Tha_vip,3.298203945,Lower,B_Bme,Mean
+Hydrophinnae,Thalassophina,Tha_vip,29.83039665,Upper,B_Bme,Mean
+Hydrophinnae,Thalassophina,Tha_vip,3.305176973,Lower,B_Bmi,Mean
+Hydrophinnae,Thalassophina,Tha_vip,29.4298687,Upper,B_Bmi,Mean
+Hydrophinnae,Thalassophina,Tha_vip,27.05972481,Lower,B_Surf,Mean
+Hydrophinnae,Thalassophina,Tha_vip,29.48317528,Upper,B_Surf,Mean
+Hydrophinnae,Thalassophina,Tha_vip,26.54,Lower,M_Surf,Mean
+Hydrophinnae,Thalassophina,Tha_vip,28.91,Upper,M_Surf,Mean
+Hydrophinnae,Thalassophina,Tha_vip,19.5,Lower,M_Surf,Min
+Hydrophinnae,Thalassophina,Tha_vip,27.75,Upper,M_Surf,Min
+Hydrophinnae,Thalassophina,Tha_vip,3.291564,Lower,B_Bma,Min
+Hydrophinnae,Thalassophina,Tha_vip,27.334506,Upper,B_Bma,Min
+Hydrophinnae,Thalassophina,Tha_vip,3.291564,Lower,B_Bme,Min
+Hydrophinnae,Thalassophina,Tha_vip,27.325731,Upper,B_Bme,Min
+Hydrophinnae,Thalassophina,Tha_vip,3.29485,Lower,B_Bmi,Min
+Hydrophinnae,Thalassophina,Tha_vip,27.332871,Upper,B_Bmi,Min
+Hydrophinnae,Thalassophina,Tha_vip,18.598024,Lower,B_Surf,Min
+Hydrophinnae,Thalassophina,Tha_vip,28.283028,Upper,B_Surf,Min
