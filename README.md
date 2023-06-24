@@ -2,10 +2,10 @@
 
 For installation and use the Jackknife function
 
-´´´
+```
 library(devtools)
 install_github("PatronRiveroC/Ssnakes")
-´´´
+```
 
 All codes and data for different analysis are available in the repository.
 
