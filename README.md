@@ -1,7 +1,5 @@
 # Ssnakes
 
-For installation and use the Jackknife function
-
 ```
 library(devtools)
 install_github("PatronRiveroC/Ssnakes")
