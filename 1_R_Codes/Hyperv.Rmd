@@ -1,0 +1,332 @@
+---
+title: "Hypervolume; Suitability and Range maps"
+author: "Patron-Rivero, C."
+date: "2024-07-24"
+output: 
+  html_document: 
+    theme: journal
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r warning = FALSE, message = FALSE}
+
+library(terra)
+library(kuenm)
+library(ntbox)
+library(rgl)
+library(rglwidget)
+library(purrr)
+library(leaflet)
+library(viridis)
+library(raster)
+
+```
+
+# Hypervolume inputs
+
+```{r warning = FALSE, message = FALSE}
+
+pca_bma <- kuenm_rpca(variables = "E:/Sea_Snake/Layers/tif/kuenm/B_Bma", in.format = "GTiff", var.scale = TRUE, write.result = FALSE, out.format = "GTiff", n.pcs = 3)
+pca_bme <- kuenm_rpca(variables = "E:/Sea_Snake/Layers/tif/kuenm/B_Bme", in.format = "GTiff", var.scale = TRUE, write.result = FALSE, out.format = "GTiff", n.pcs = 3)
+pca_bmi <- kuenm_rpca(variables = "E:/Sea_Snake/Layers/tif/kuenm/B_Bmi", in.format = "GTiff", var.scale = TRUE, write.result = FALSE, out.format = "GTiff", n.pcs = 3)
+pca_bs <- kuenm_rpca(variables = "E:/Sea_Snake/Layers/tif/kuenm/B_Surf", in.format = "GTiff", var.scale = TRUE, write.result = FALSE, out.format = "GTiff", n.pcs = 3)
+pca_ms <- kuenm_rpca(variables = "E:/Sea_Snake/Layers/tif/kuenm/M_Surf", in.format = "GTiff", var.scale = TRUE, write.result = FALSE, out.format = "GTiff", n.pcs = 3)
+
+occ <- read.csv("E:/1_Ssnks/2_Inputs/5_spp.csv", sep = ",")
+
+```
+
+# Hypervolumes
+
+```{r warning = FALSE, message = FALSE}
+
+occ_vars <- extract(pca_bma$PCRasters_initial, occ[, c("Long", "Lat")], df = TRUE)
+occ_vars <- occ_vars[, -1]
+data <- as.data.frame(cbind(occ[, 3:5], occ_vars))
+data <- na.omit(data)
+data <- split(data, data$Species)
+data <- data[-50]
+
+covar_bma <- list()
+for(i in 1:length(data)){
+	covar_bma[[i]] <- cov_center(data[[i]], mve = TRUE, level = 0.95, vars = c(4, 5, 6))
+}
+
+occ_vars <- extract(pca_bme$PCRasters_initial, occ[, c("Long", "Lat")], df = TRUE)
+occ_vars <- occ_vars[, -1]
+data <- as.data.frame(cbind(occ[, 3:5], occ_vars))
+data <- na.omit(data)
+data <- split(data, data$Species)
+data <- data[-50]
+
+covar_bme <- list()
+for(i in 1:length(data)){
+	covar_bme[[i]] <- cov_center(data[[i]], mve = TRUE, level = 0.95, vars = c(4, 5, 6))
+}
+
+occ_vars <- extract(pca_bmi$PCRasters_initial, occ[, c("Long", "Lat")], df = TRUE)
+occ_vars <- occ_vars[, -1]
+data <- as.data.frame(cbind(occ[, 3:5], occ_vars))
+data <- na.omit(data)
+data <- split(data, data$Species)
+data <- data[-50]
+
+covar_bmi <- list()
+for(i in 1:length(data)){
+	covar_bmi[[i]] <- cov_center(data[[i]], mve = TRUE, level = 0.95, vars = c(4, 5, 6))
+}
+
+occ_vars <- extract(pca_bs$PCRasters_initial, occ[, c("Long", "Lat")], df = TRUE)
+occ_vars <- occ_vars[, -1]
+data <- as.data.frame(cbind(occ[, 3:5], occ_vars))
+data <- na.omit(data)
+data <- split(data, data$Species)
+data <- data[-50]
+
+covar_bs <- list()
+for(i in 1:length(data)){
+	covar_bs[[i]] <- cov_center(data[[i]], mve = TRUE, level = 0.95, vars = c(4, 5, 6))
+}
+
+occ_vars <- extract(pca_ms$PCRasters_initial, occ[, c("Long", "Lat")], df = TRUE)
+occ_vars <- occ_vars[, -1]
+data <- as.data.frame(cbind(occ[, 3:5], occ_vars))
+data <- na.omit(data)
+data <- split(data, data$Species)
+data <- data[-50]
+
+covar_ms <- list()
+for(i in 1:length(data)){
+	covar_ms[[i]] <- cov_center(data[[i]], mve = TRUE, level = 0.95, vars = c(4, 5, 6))
+}
+
+```
+
+# Example with Aipysurus apraefrontalis {.tabset}
+
+Note: Change the [[i]] for any number to visualize the hypervolume of each species
+
+## Bma
+
+```{r warning = FALSE, message = FALSE}
+
+ellipsoid <- rgl::ellipse3d(covar_bma[[1]]$covariance, centre = covar_bma[[1]]$centroid, level = 0.95)
+xlim <- range(ellipsoid$vb[1, ])
+ylim <- range(ellipsoid$vb[2, ])
+zlim <- range(ellipsoid$vb[3, ])
+rgl::open3d()
+rgl::wire3d(ellipsoid, col = "blue")
+rgl::decorate3d(
+  xlim = xlim, ylim = ylim, zlim = zlim,
+  box = TRUE, axes = TRUE, top = TRUE,
+  xlab = "X", ylab = "Y", zlab = "Z",
+  col = "black"
+)
+
+rglwidget::rglwidget()
+
+```
+
+## Bme
+
+```{r warning = FALSE, message = FALSE}
+
+ellipsoid <- rgl::ellipse3d(covar_bme[[1]]$covariance, centre = covar_bme[[1]]$centroid, level = 0.95)
+xlim <- range(ellipsoid$vb[1, ])
+ylim <- range(ellipsoid$vb[2, ])
+zlim <- range(ellipsoid$vb[3, ])
+rgl::open3d()
+rgl::wire3d(ellipsoid, col = "blue")
+rgl::decorate3d(
+  xlim = xlim, ylim = ylim, zlim = zlim,
+  box = TRUE, axes = TRUE, top = TRUE,
+  xlab = "X", ylab = "Y", zlab = "Z",
+  col = "black"
+)
+
+rglwidget::rglwidget()
+
+```
+
+## Bmi
+
+```{r warning = FALSE, message = FALSE}
+
+ellipsoid <- rgl::ellipse3d(covar_bmi[[1]]$covariance, centre = covar_bmi[[1]]$centroid, level = 0.95)
+xlim <- range(ellipsoid$vb[1, ])
+ylim <- range(ellipsoid$vb[2, ])
+zlim <- range(ellipsoid$vb[3, ])
+rgl::open3d()
+rgl::wire3d(ellipsoid, col = "blue")
+rgl::decorate3d(
+  xlim = xlim, ylim = ylim, zlim = zlim,
+  box = TRUE, axes = TRUE, top = TRUE,
+  xlab = "X", ylab = "Y", zlab = "Z",
+  col = "black"
+)
+
+rglwidget::rglwidget()
+
+```
+
+## BSurf
+
+```{r warning = FALSE, message = FALSE}
+
+ellipsoid <- rgl::ellipse3d(covar_bs[[1]]$covariance, centre = covar_bs[[1]]$centroid, level = 0.95)
+xlim <- range(ellipsoid$vb[1, ])
+ylim <- range(ellipsoid$vb[2, ])
+zlim <- range(ellipsoid$vb[3, ])
+rgl::open3d()
+rgl::wire3d(ellipsoid, col = "blue")
+rgl::decorate3d(
+  xlim = xlim, ylim = ylim, zlim = zlim,
+  box = TRUE, axes = TRUE, top = TRUE,
+  xlab = "X", ylab = "Y", zlab = "Z",
+  col = "black"
+)
+
+rglwidget::rglwidget()
+
+```
+
+## MSurf
+
+```{r warning = FALSE, message = FALSE}
+
+ellipsoid <- rgl::ellipse3d(covar_ms[[1]]$covariance, centre = covar_ms[[1]]$centroid, level = 0.95)
+xlim <- range(ellipsoid$vb[1, ])
+ylim <- range(ellipsoid$vb[2, ])
+zlim <- range(ellipsoid$vb[3, ])
+rgl::open3d()
+rgl::wire3d(ellipsoid, col = "blue")
+rgl::decorate3d(
+  xlim = xlim, ylim = ylim, zlim = zlim,
+  box = TRUE, axes = TRUE, top = TRUE,
+  xlab = "X", ylab = "Y", zlab = "Z",
+  col = "black"
+)
+
+rglwidget::rglwidget()
+
+```
+
+# Suitability and range inputs #
+
+```{r warning = FALSE, message = FALSE}
+
+setwd("E:/1_Ssnks/4_Models/5m_suit")
+r <- list.files("E:/1_Ssnks/4_Models/5m_suit", pattern = ".tif")
+m5 <- list()
+m5 <- map(r, rast)
+
+setwd("E:/1_Ssnks/10m_suit")
+r <- list.files("E:/1_Ssnks/10m_suit", pattern = ".tif")
+m10 <- list()
+m10 <- map(r, rast)
+
+setwd("E:/1_Ssnks/5m_range")
+r <- list.files("E:/1_Ssnks/5m_range", pattern = ".tif")
+r5 <- list()
+r5 <- map(r, rast)
+
+setwd("E:/1_Ssnks/10m_range")
+r <- list.files("E:/1_Ssnks/10m_range", pattern = ".tif")
+r10 <- list()
+r10 <- map(r, rast)
+
+names <- sub("\\.tif{1,2}$", "", basename(r))
+colors <- viridis(4)
+
+```
+
+# Suitability 10 arcmin
+
+```{r warning = FALSE, message = FALSE}
+
+m_5 <- leaflet() %>%
+  addTiles()
+  
+for (i in seq_along(m5)) {
+  m_5 <- m_5 %>%
+    addRasterImage(raster(m5[[i]]), opacity = 0.5, colors = colorNumeric(c("transparent", colors), values(raster(m5[[i]])), na.color = "transparent"), group = names[i])
+}
+
+m_5 <- m_5 %>%
+		addLayersControl(
+			baseGroups = names,
+			options = layersControlOptions(collapsed = FALSE)
+		)
+
+m_5
+
+```
+
+# Suitability 10 arcmin
+
+```{r warning = FALSE, message = FALSE}
+
+m_10 <- leaflet() %>%
+  addTiles()
+  
+for (i in seq_along(m10)) {
+  m_10 <- m_10 %>%
+    addRasterImage(raster(m10[[i]]), opacity = 0.5, colors = colorNumeric(c("transparent", colors), values(raster(m10[[i]])), na.color = "transparent"), group = names[i])
+}
+
+m_10 <- m_10 %>%
+		addLayersControl(
+			baseGroups = names,
+			options = layersControlOptions(collapsed = FALSE)
+		)
+
+m_10
+
+```
+
+# Range 5 arcmin
+
+```{r warning = FALSE, message = FALSE}
+
+r_5 <- leaflet() %>%
+  addTiles()
+  
+for (i in seq_along(r5)) {
+  r_5 <- r_5 %>%
+    addRasterImage(raster(r5[[i]]), opacity = 0.5, colors = colorNumeric(c("transparent", colors), values(raster(r5[[i]])), na.color = "transparent"), group = names[i])
+}
+
+r_5 <- r_5 %>%
+		addLayersControl(
+			baseGroups = names,
+			options = layersControlOptions(collapsed = FALSE)
+		)
+
+r_5
+
+```
+
+# Range 10 arcmin
+
+```{r warning = FALSE, message = FALSE}
+
+r_10 <- leaflet() %>%
+  addTiles()
+  
+for (i in seq_along(r10)) {
+  r_10 <- r_10 %>%
+    addRasterImage(raster(r10[[i]]), opacity = 0.5, colors = colorNumeric(c("transparent", colors), values(raster(r10[[i]])), na.color = "transparent"), group = names[i])
+}
+
+r_10 <- r_10 %>%
+		addLayersControl(
+			baseGroups = names,
+			options = layersControlOptions(collapsed = FALSE)
+		)
+
+r_10
+
+```
+
